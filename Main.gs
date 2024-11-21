@@ -1,6 +1,6 @@
 // Unique Google IDs to access both the Food4Philly Directory and the Membership form
-const DIRECTORY_SHEET_ID = "1E62O579akZotUWhNHhoeEPbD0B0EfqnjNsd6PkXKl2U";
-const MEMBERSHIP_FORM_ID = "1LhFn2vs-ynFnbn_RuanaPhLzPzqYA3Cs8S8EFAH2kmk";
+const DIRECTORY_SHEET_ID = "";
+const MEMBERSHIP_FORM_ID = "";
 // Unique ranges to access specific data on the Directory spreadsheet 
 const DIRECTORY_CHAPTERS_RANGE = "Chapters!A2:A1000";
 const DIRECTORY_TEAMS_RANGE = "Teams!A2:A1000";
