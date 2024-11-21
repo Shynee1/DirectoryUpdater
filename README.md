@@ -31,8 +31,9 @@ Food4Philly has a large and growing member base across various chapters. Managin
 ## Setup Instructions
 
 ### Prerequisites
-- A Google Form for membership submissions.
-- A Google Sheet serving as the member directory.
+- Access to the Food4Philly Membership Form
+- Access to the Food4Philly Directory spreadsheet
+- Access to the Food4Philly Gmail account
 
 ### Installation & Setup
 1. Open Google Apps Script at [script.google.com](https://script.google.com).
